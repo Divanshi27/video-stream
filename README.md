@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Steps to run the Project:-
+* Download the Project
+* Inside video-stream folder run command "npm install"
+* Run command "npm start" to run the project
+* Request you to please test project clicking on the following areas:- 
+MONEY HEIST in Originals section (6th movie in original)
+KILLER ELITE in Originals section (7th movie in original)
+THE BOYS IN THE BRAND in Trending Now section (3rd in Trending now)
+
 ## Available Scripts
 
 In the project directory, you can run:

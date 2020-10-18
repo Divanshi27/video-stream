@@ -1,0 +1,18 @@
+.nav-bar {
+    height: 30px;
+    position: fixed;
+    padding: 20px;
+    top: 0;
+    transition-timing-function: ease-in;
+    transition: all .5s;
+    width: 100%;
+    z-index: 1;
+}
+.nav-bar__heading {
+    color: #b30000;
+    font: normal 800 25px/32px Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+.nav-bar__black {
+    background-color: #111;
+}
